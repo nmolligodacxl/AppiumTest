@@ -1,0 +1,9 @@
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\bin\Debug\netstandard2.0\AppiumTest.deps.json
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\bin\Debug\netstandard2.0\AppiumTest.dll
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\obj\Debug\netstandard2.0\AppiumTest.csproj.CoreCompileInputs.cache
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\obj\Debug\netstandard2.0\AppiumTest.AssemblyInfoInputs.cache
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\obj\Debug\netstandard2.0\AppiumTest.AssemblyInfo.cs
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\bin\Debug\netstandard2.0\AppiumTest.pdb
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\obj\Debug\netstandard2.0\AppiumTest.dll
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\obj\Debug\netstandard2.0\AppiumTest.pdb
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\obj\Debug\netstandard2.0\AppiumTest.csprojAssemblyReference.cache

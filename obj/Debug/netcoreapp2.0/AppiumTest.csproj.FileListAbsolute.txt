@@ -1,0 +1,11 @@
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\bin\Debug\netcoreapp2.0\AppiumTest.deps.json
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\bin\Debug\netcoreapp2.0\AppiumTest.dll
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\bin\Debug\netcoreapp2.0\AppiumTest.pdb
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\obj\Debug\netcoreapp2.0\AppiumTest.csproj.CoreCompileInputs.cache
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\obj\Debug\netcoreapp2.0\AppiumTest.AssemblyInfoInputs.cache
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\obj\Debug\netcoreapp2.0\AppiumTest.AssemblyInfo.cs
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\obj\Debug\netcoreapp2.0\AppiumTest.dll
+C:\Users\nmolligoda\source\repos\AppiumTest\AppiumTest\obj\Debug\netcoreapp2.0\AppiumTest.pdb
